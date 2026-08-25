@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Shuning Tang"
+  avatar           : "images/Shuning2.jpg"
+  bio              : "SBL Lab, Beijing Normal University"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Beijing Normal University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : 
+  researchgate     : "https://www.researchgate.net/profile/Shuning-Tang?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
