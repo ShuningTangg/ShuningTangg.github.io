@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Shuning Tang"
+description              : "Research Assistant at Sequence Brain Lab, Beijing Normal University. Research on the neurocognitive mechanisms of language processing."
 repository               : "ShuningTangg/ShuningTangg.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         : "Beijing Normal University"
   pubmed           : 
   googlescholar    : 
-  email            : 
+  email            : "2021024223@m.scnu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Shuning-Tang?ev=hdr_xprf"
   uri              :
   bitbucket        :
