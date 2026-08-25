@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
@@ -17,49 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student at the [Sequence Brain Lab (SBL Lab)](https://github.com/ShuningTangg), advised by Prof. [Dongwei Li](https://github.com/ShuningTangg) at Beijing Normal University. <!-- TODO: 替换为SBL Lab官方链接和李东伟老师主页 -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes **psycholinguistics** and **cognitive neuroscience**, with a focus on:
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-- **Sentence planning and syntactic encoding** — the time course and neural dynamics of building syntactic structure during language production
-- **Speech reconstruction and word surprisal prediction** — decoding linguistic predictions from neural activity
-- **EEG PAC brain network analysis** — cross-frequency phase-amplitude coupling as a neural marker of language processing
-- **Gene-brain-behavior relationships** — GWAS of EEG phenotypes in large healthy samples
-
-<!-- TODO: 拿到 Google Scholar 主页后填入引用数徽章
-I have published papers with total <a href='https://scholar.google.com/citations?user=YOUR_ID'>google scholar citations <strong><span id='total_cit'>XXX+</span></strong></a>.
--->
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉 Personal website launched.
-<!-- TODO: 在这里添加动态，例如：论文投稿、会议录用、获奖等，一行一条，新在上 -->
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications
+# 📝 Publications 
 
-<!-- TODO: 第一篇代表论文用 paper-box 格式（带图片），其余用列表格式
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuroImage</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[论文标题](https://doi.org/xxx)
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Shuning Tang**, ...
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-- 一句话说明研究内容。
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
--->
 
-- [Paper Title Placeholder](https://github.com), **Shuning Tang**, ... <!-- TODO: 填入论文信息，NeuroImage 修改稿投出后更新 -->
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *20XX.XX* <!-- TODO: 奖项，如奖学金、优秀毕业生等 -->
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *20XX.09 - present*, M.Sc. in Cognitive Neuroscience, Beijing Normal University <!-- TODO: 确认专业名称与入学年份 -->
-- *20XX.09 - 20XX.06*, B.Sc., [University Name] <!-- TODO: 填入本科学校与专业 -->
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-<!-- TODO: 暂无则删除此节 -->
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-<!-- TODO: 暂无则删除此节 -->
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
