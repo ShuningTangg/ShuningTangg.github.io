@@ -18,12 +18,12 @@ My research examines the neurocognitive mechanisms of language processing, with 
 - **Syntactic encoding in sentence production** — decoding syntactic complexity from EEG in first (L1) and second (L2) languages with MVPA, examining the role of theta oscillations in syntactic planning.
 - **Neural oscillations across development** — phase-amplitude coupling (PAC) analysis in a large-scale developmental cohort, linking brain dynamics to behavior and genetics.
 
-# 🔥 News
-- *2026.02*: &nbsp;🎉 Our work *Moments-EEG: A large-scale EEG dataset of naturalistic audiovisual event perception* has been accepted as a poster at **Vision Science Society (VSS) 2026**.
-- *2025.12*: &nbsp;📄 New paper on the neurodevelopmental basis of parafoveal attention encoding in children during natural Chinese reading, published in *Advances in Psychological Science* (in Chinese).
-- *2025.08*: &nbsp;🗣 Presented a poster *Unraveling neural dynamics of semantic processing in first and second language planning of sentence production* at the **UBSN Neuroscience Conference and Workshops 2025**.
+# 🗣 News
+- *2026.02*: &nbsp; Our work *Moments-EEG: A large-scale EEG dataset of naturalistic audiovisual event perception* has been accepted as a poster at **Vision Science Society (VSS) 2026**.
+- *2025.12*: &nbsp; New paper on the neurodevelopmental basis of parafoveal attention encoding in children during natural Chinese reading, published in *Advances in Psychological Science* (in Chinese).
+- *2025.08*: &nbsp; Presented a poster *Unraveling neural dynamics of semantic processing in first and second language planning of sentence production* at the **UBSN Neuroscience Conference and Workshops 2025**.
 
-# 📝 Publications
+# 📝 Manuscripts and Publications
 
 (*†* indicates co-first author; *#* indicates corresponding author)
 
@@ -34,15 +34,6 @@ My research examines the neurocognitive mechanisms of language processing, with 
 - **Tang, S.**<sup>†</sup>, Li, D.<sup>†</sup>, Weng, X., & Wang, B.<sup>#</sup> (In preparation). Dynamic perception and prediction in natural language comprehension with GPT-2 (Chinese)-based modeling: Insights into information exchange from iEEG evidence.
 - **Tang, S.**<sup>†</sup>, Lu, Z.<sup>†</sup>, Li, L., & Li, D.<sup>#</sup> (In preparation). Moments-EEG: A large-scale EEG dataset of naturalistic audiovisual event perception.
 
-# 🎖 Honors and Awards
-- *2021 - 2023*, Graduate Scholarship, South China Normal University (three consecutive years).
-- *2018 - 2019*, Undergraduate Scholarship, Henan University.
-- *2019*, Second Prize, National English Competition for College Students (NECCS), Category C.
-
-# 📖 Educations
-- *2021.09 - 2024.06*, Master of Education in Psychology, South China Normal University, Guangzhou. Dissertation: *Dynamic Perception and Prediction Activities in Language Comprehension*.
-- *2017.09 - 2021.06*, Bachelor of Science in Psychology, Henan University, Kaifeng. GPA: 3.8/4.0 (Rank: 1/78). Dissertation: *The Dynamic Changes in the Contribution of Metalinguistic Skills to Word Reading Among Chinese Elementary Students*.
-- *2019.08 - 2020.06*, Exchange Student (Psychology), The University of Akron, USA. GPA: 3.9/4.0.
-
 # 💻 Experience
-- *2024.09 - Present*, Research Assistant, Sequence Brain Lab, Beijing Normal University & The Hong Kong Polytechnic University. Data analysis, EEG experimental programming, MATLAB pipeline development, and manuscript writing; co-authored three manuscripts and drafted research grant proposals.
+- *2024.09 - Present*, Research Assistant, Sequence Brain Lab, Beijing Normal University & The Hong Kong Polytechnic University.  
+  Data analysis, EEG experimental programming, MATLAB pipeline development, and manuscript writing; co-authored three manuscripts and drafted research grant proposals.
