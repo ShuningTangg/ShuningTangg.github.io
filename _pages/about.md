@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Assistant at Beijing Normal University and The Hong Kong Polytechnic University, working with [Dongwei Li](https://fas.bnu.edu.cn/jyjg/xsgk/xlx1/xlxssz/xlzj/4a718c4463b24ae497d3be0438f96bc2.htm) and [Luyao Chen](https://research.polyu.edu.hk/en/persons/luyao-chen/). I received my Master of Education in Psychology from South China Normal University (2024), I was supervised under [Xuchu Weng](http://bces.scnu.edu.cn/a/20210416/15.html), [Benchi Wang](https://portal.smu.edu.cn/bsbii/info/1015/3480.htm), and [Dongwei Li](https://fas.bnu.edu.cn/jyjg/xsgk/xlx1/xlxssz/xlzj/4a718c4463b24ae497d3be0438f96bc2.htm). I received my Bachelor of Science in Psychology from Henan University (2021, ranked 1/78).
+I am a Research Assistant at Beijing Normal University and The Hong Kong Polytechnic University, working with Associate Professor [Dongwei Li](https://fas.bnu.edu.cn/jyjg/xsgk/xlx1/xlxssz/xlzj/4a718c4463b24ae497d3be0438f96bc2.htm) and Assistant Professor [Luyao Chen](https://research.polyu.edu.hk/en/persons/luyao-chen/). I received my Master of Education in Psychology from South China Normal University (2024), I was supervised under Professor [Xuchu Weng](http://bces.scnu.edu.cn/a/20210416/15.html), Professor [Benchi Wang](https://portal.smu.edu.cn/bsbii/info/1015/3480.htm), and Associate Professor [Dongwei Li](https://fas.bnu.edu.cn/jyjg/xsgk/xlx1/xlxssz/xlzj/4a718c4463b24ae497d3be0438f96bc2.htm). I received my Bachelor of Science in Psychology from Henan University (2021, ranked 1/78).
 
 My research examines the neurocognitive mechanisms of language processing, with a focus on:
 
