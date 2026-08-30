@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Assistant at Beijing Normal University and The Hong Kong Polytechnic University, working with Associate Professor [Dongwei Li](https://fas.bnu.edu.cn/jyjg/xsgk/xlx1/xlxssz/xlzj/4a718c4463b24ae497d3be0438f96bc2.htm)（李东伟） and Assistant Professor [Luyao Chen](https://research.polyu.edu.hk/en/persons/luyao-chen/)（陈路遥）. I received my Master of Education in Psychology from South China Normal University (2024), I was supervised under Professor [Xuchu Weng](http://bces.scnu.edu.cn/a/20210416/15.html)（翁旭初）, Professor [Benchi Wang](https://portal.smu.edu.cn/bsbii/info/1015/3480.htm)（王本驰）, and Associate Professor [Dongwei Li](https://fas.bnu.edu.cn/jyjg/xsgk/xlx1/xlxssz/xlzj/4a718c4463b24ae497d3be0438f96bc2.htm)（李东伟）. 
+I am a Research Assistant at Beijing Normal University and The Hong Kong Polytechnic University, working with Associate Professor [Dongwei Li](https://fas.bnu.edu.cn/jyjg/xsgk/xlx1/xlxssz/xlzj/4a718c4463b24ae497d3be0438f96bc2.htm)（李东伟） and Assistant Professor [Luyao Chen](https://research.polyu.edu.hk/en/persons/luyao-chen/)（陈路遥）. During my Master's studies at South China Normal University (2021–2024), I was supervised by Professor [Xuchu Weng](http://bces.scnu.edu.cn/a/20210416/15.html)（翁旭初）, Professor [Benchi Wang](https://portal.smu.edu.cn/bsbii/info/1015/3480.htm)（王本驰）, and Associate Professor [Dongwei Li](https://fas.bnu.edu.cn/jyjg/xsgk/xlx1/xlxssz/xlzj/4a718c4463b24ae497d3be0438f96bc2.htm)（李东伟）.
 
 My research examines the neurocognitive mechanisms of cognitive processing, with a focus on:
 
