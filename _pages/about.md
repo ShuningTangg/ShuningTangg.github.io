@@ -14,12 +14,12 @@ I am a Research Assistant at Beijing Normal University and The Hong Kong Polytec
 
 My research examines the neurocognitive mechanisms of cognitive processing, with a focus on:
 
-- **Prediction in natural language comprehension** — using intracranial EEG (iEEG) recordings from epilepsy patients, combined with computational modeling reveal how the brain transitions from perceptual to predictive processing.
-- **Neural oscillations across development** — phase-amplitude coupling (PAC) analysis in a large-scale developmental cohort, linking brain dynamics to behavior and genetics.
-- **视听整合的认知和解码机制** — 通过解码神经信号来探究人类看视频期间的视听神经过程.
+- **Prediction in natural language comprehension**: I use intracranial EEG and computational modeling to examine the temporal dynamics of predictive processing across cortical regions during naturalistic language understanding.
+- **Neural oscillations across development**: I examine developmental changes in neural oscillatory dynamics, especially phase-amplitude coupling, and their links to behavior, cognition, and genetics.
+- **Audiovisual integration and neural decoding**: I use neural decoding approaches to investigate how the brain integrates visual and auditory information during naturalistic video viewing.
 
 
-# 🗣 News
+# 📰 News
 - *2026.02*: &nbsp; Our work *Moments-EEG: A large-scale EEG dataset of naturalistic audiovisual event perception* has been accepted as a poster at **Vision Science Society (VSS) 2026**.
 - *2025.12*: &nbsp; New paper on the neurodevelopmental basis of parafoveal attention encoding in children during natural Chinese reading, published in *Advances in Psychological Science* (in Chinese).
 - *2025.08*: &nbsp; Presented a poster *Unraveling neural dynamics of semantic processing in first and second language planning of sentence production* at the **UBSN Neuroscience Conference and Workshops 2025**.
